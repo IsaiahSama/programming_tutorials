@@ -2,6 +2,8 @@
 
 **IN DEVELOPMENT**
 
+**NOTE: Majority of the app has been created prior to creating this repository. This is why some of the code in here may seem redundant or ridiculous. The main purpose of this repo is just so I can have a track of everything I did... although at the cost of having to do it again :')**
+
 ## About
 This is a python program developed by Isaiah Carrington, to teach about basic python concepts, and provide a testing platform where user's can get their knowledge tested.
 
